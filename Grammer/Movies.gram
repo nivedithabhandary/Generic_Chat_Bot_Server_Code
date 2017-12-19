@@ -1,0 +1,14 @@
+#JSGF V1.0;
+grammer movies;
+
+<subject> = movie | movies;
+<name> = Jurassic World|Star Wars|Avengers|Inside Out|Furious 7|Minions|Creed|Tomorrowland|Sisters|Unfriended|Sinister 2|A Walk in the Woods|Run All Night|Ex Machina|Spotlight|Maleficent|The Amazing Spider-Man|The Fault in our Stars|Noah|The Imitation Game;
+<question> = tell me about | how is | what is;
+<recommend> = recommend | recommend me | recommended | suggest | advise | suggest me | advise me;
+<action> = to watch | watch;
+<polite> = please;
+<time> = today | now ;
+
+public <command>=[<polite>][<question>][the]<subject>(<name>);
+public <command>=[<polite>](<recommend>)<subject><action>[<time>];
+public <command>=[<polite>][<question>][about](<name>)<subject>;

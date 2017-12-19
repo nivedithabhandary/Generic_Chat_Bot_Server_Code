@@ -1,0 +1,22 @@
+#JSGF V1.0;
+grammer weather;
+
+<subject> = weather | climate| temperature;
+<time> = today | tomorrow | morning | evening | afternoon | night | weekend;
+<question> = how is | what is ;
+
+<question2> = is it going to;
+<type> = rain | snow | hail | sunny | windy;
+<countries> = USA|India|Afghanistan|Bangladesh|Argentina|Australia|Barbados|Belgium|Bhutan|Canada|Germany|Iceland|India|Indonesia|Iran|Iraq|Jamaica|Japan|Malaysia|Maldives|Sri Lanka|Ghana|Greece|United Arab Emirates|United States|UK;
+<places> = New York|Los Angeles|Chicago|Houston|Phoenix|San Antonio|San Diego|Dallas|San Jose|Austin|Jacksonville|San Francisco|Columbus|Indianapolis|Fort Worth|Charlotte|Seattle|Denver|El Paso|Washington|Boston|Detroit|Nashville-Davidson|Memphis|Portland|Oklahoma City;
+
+public <command>=[<question>][the]<subject>[forecast][this](<time>);
+public <command>=[<question2>][be]<type>(<time>);
+public <command>=[<question>][the]<subject>(in)<countries>;
+public <command>=[<question>][the]<subject>(in)<places>;
+public <command>=[<places>](<subject>);
+public <command>=(<countries>)(<subject>);
+public <command>=[<question>][the]<subject>(at)<countries>;
+public <command>=[<question>][the]<subject>(at)<places>;
+public <command>=[<question>][the]<subject>(of)<countries>;
+public <command>=[<question>][the]<subject>(of)<places>;

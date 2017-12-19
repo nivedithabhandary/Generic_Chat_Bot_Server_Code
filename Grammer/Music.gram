@@ -1,0 +1,16 @@
+#JSGF V1.0;
+grammer music;
+
+<subject> = song | songs;
+<options> = top | popular | latest;
+<connect> = from | by ;
+<artist> = coldplay | Ed Sheeran | Bruno Mars | AR Rahman | Sonu Nigam | RD Burman;
+<question> = play;
+<recommend> = recommend | recommend me | recommended | suggest | advise;
+<genre> = Indian | pop | classical | rock | hip-hop;
+<action> = to listen | listen;
+<polite> = please;
+<time> = today | now ;
+
+public <command>=[<polite>](<question>)[the][<options>]<subject>[<connect>][<artist>];
+public <command>=[<polite>](<recommend>)[<genre>]<subject><action>[<time>];

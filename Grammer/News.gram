@@ -1,0 +1,15 @@
+#JSGF V1.0;
+grammer news;
+
+<question> = read | read me | tell | tell me | what is | what's;
+<subject> = new | news ;
+<options> = technology | sports | world | business | science | health | entertainment;
+#<polite> = please | can you please;
+<time> = today | now ;
+<post> = update | updates;
+<extra> = Flash Briefing;
+
+public <command>=(<question>)[the][<options>]<subject>;
+public <command>=(<question>)[the][<options>](<post>);
+public <command>=(<question>)[my]<extra>;
+public <command>=(<extra>);

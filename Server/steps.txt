@@ -1,0 +1,30 @@
+sudo service mongod restart
+
+screen
+control A, control D
+screen -X -S [session # you want to kill] quit
+
+export FLASK_APP=server.py
+flask run
+
+Change server name in:
+sudo vi /etc/nginx/conf.d/virtual.conf
+
+To start server:
+sudo /etc/rc.d/init.d/nginx start
+sudo su
+cd /home/apps/myapp
+/usr/local/bin/gunicorn server:app -b localhost:8000
+
+Links:
+https://www.matthealy.com.au/blog/post/deploying-flask-to-amazon-web-services-ec2/
+
+
+
+MySQL connection:
+pip install flask-mysql
+
+MySQL commands:
+use PythonTest;
+select * from tbl_user;
+insert into tbl_user(user_name,user_email,user_password,user_twitter,user_spotify,user_genre,user_movies) values ('movie1','movie@gmail.com','12345','nivedithapb','test','adventure,feel good,life,new york city,police','Tomorrowland (2015),You Only Live Twice (1967),Southland Tales (2006),Money Train (1995),Four Rooms (1995)');

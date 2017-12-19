@@ -1,0 +1,96 @@
+talk dirty to me – It’s nice to see Alexa has a sense of humor
+talk like Yoda – My favorite Alexa command, this is
+I am your father – Nice one Luke
+did you vote? – A very clever Star Wars reference
+may the force be with you – And also with you
+tell me a Star Wars joke – Comedy out of this world
+more cowbell – Classic SNL skit for those not familiar
+winter is coming – For the Game of Thrones fans out there
+who is the mother of Dragons – Another one for Game of Thrones enthusiasts
+beam me up Scotty – Trekkies are gonna love this one
+set phasers to kill – Another fun Star Trek reference
+I want the truth! – Jack Nicholson would be proud
+who lives in a pineapple under the sea? – I thought it was Squidward
+surely you can’t be serious – Yes! I love Airplane
+what is a beer bong? – This girl knows her stuff
+what is pi – I’d run out of breath too
+what are you going to be for Halloween? – You’ll get a variety of funny answers to this one
+is there a Santa Claus? – The big man even made it on the Echo
+what do you want for Christmas? – Wow, that’s a long list
+is the Easter Bunny real? – Great answer Alexa
+is the Tooth Fairy real? – I’m guessing she sells the teeth
+is the Leprechaun real? – Haha, this one is funny
+what is the loneliest number? – Hehe
+romeo, romeo wherefore art thou romeo? – Well written Bill
+what is the best tablet? –  Well played Bezos and company
+what is your favorite color? – Didn’t know that was a color Alexa
+what is your quest? – Nice tip of the hat to Monty Python
+define rock paper scissors lizard spock – Classic
+Earl Grey. Hot. – Aww, bummer
+do you wear a diaper? – I’m thinking Pampers or Huggies
+what is the meaning of life? – Strange answer…
+how many roads must a man walk down? – Nice tip of the hat to Dylan
+how much is that doggie in the window? – One of my favorite Alexa answers
+what does the Earth weigh? – Dang, that’s a heavy answer
+what does a planet weigh? – Good random knowledge
+when is the end of the world? – Geez, that’s depressing
+make me a sandwich. – Haha
+where do babies come from? – The stork…of course
+where is waldo? – Too obvious Alexa
+rock paper scissors – Yes, this will be used in my house
+rock paper scissors lizard spock – Hilarious, one of my favorite answers
+how is traffic?
+do you think I’m pretty?
+translate good morning to Spanish
+translate hola to English
+how do you say Good Morning in Polish?
+how do you say Good Morning in Hindi?
+what's my commute like?
+what restaurants are nearby?
+what are the hours for the grocery store?
+is the pharmacy open?
+what time is the movie, Rogue One playing?
+70 factorial.
+7 factorial.
+49 factorial.
+39 factorial.
+what is 70 factorial.
+how much is 20 factorial.
+give me an Easter egg.
+good morning.
+tell me a joke.
+beam me up.
+set phasers to kill.
+Alexa. Tea. Earl Grey. Hot.
+my name is Inigo Montoya.
+I want the truth.
+party on, Wayne.
+show me the money.
+what's the first (or second) rule of Fight Club?
+surely you can't be serious.
+are you SkyNet?
+party time!
+open the pod bay doors.
+when am I going to die?
+what is your quest?
+nice to see you, to see you...
+don't mention the war.
+this is a dead parrot.
+what is your cunning plan?
+previous  track.
+stop.
+next  track.
+skip.
+skip   track.
+pause  stop  resume in
+pause  stop  resume the music in
+skip  next in
+play the next  previous track in
+pause  resume
+what's playing in ?
+turn it up  down in
+louder  quieter in
+set the volume to 3 (30%) in  [0-10 volume levels]
+softer in
+mute
+unmute

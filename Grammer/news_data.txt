@@ -1,0 +1,397 @@
+read new
+read news
+read technology new
+read technology news
+read sports new
+read sports news
+read world new
+read world news
+read business new
+read business news
+read science new
+read science news
+read health new
+read health news
+read entertainment new
+read entertainment news
+read the new
+read the news
+read the technology new
+read the technology news
+read the sports new
+read the sports news
+read the world new
+read the world news
+read the business new
+read the business news
+read the science new
+read the science news
+read the health new
+read the health news
+read the entertainment new
+read the entertainment news
+read me new
+read me news
+read me technology new
+read me technology news
+read me sports new
+read me sports news
+read me world new
+read me world news
+read me business new
+read me business news
+read me science new
+read me science news
+read me health new
+read me health news
+read me entertainment new
+read me entertainment news
+read me the new
+read me the news
+read me the technology new
+read me the technology news
+read me the sports new
+read me the sports news
+read me the world new
+read me the world news
+read me the business new
+read me the business news
+read me the science new
+read me the science news
+read me the health new
+read me the health news
+read me the entertainment new
+read me the entertainment news
+tell new
+tell news
+tell technology new
+tell technology news
+tell sports new
+tell sports news
+tell world new
+tell world news
+tell business new
+tell business news
+tell science new
+tell science news
+tell health new
+tell health news
+tell entertainment new
+tell entertainment news
+tell the new
+tell the news
+tell the technology new
+tell the technology news
+tell the sports new
+tell the sports news
+tell the world new
+tell the world news
+tell the business new
+tell the business news
+tell the science new
+tell the science news
+tell the health new
+tell the health news
+tell the entertainment new
+tell the entertainment news
+tell me new
+tell me news
+tell me technology new
+tell me technology news
+tell me sports new
+tell me sports news
+tell me world new
+tell me world news
+tell me business new
+tell me business news
+tell me science new
+tell me science news
+tell me health new
+tell me health news
+tell me entertainment new
+tell me entertainment news
+tell me the new
+tell me the news
+tell me the technology new
+tell me the technology news
+tell me the sports new
+tell me the sports news
+tell me the world new
+tell me the world news
+tell me the business new
+tell me the business news
+tell me the science new
+tell me the science news
+tell me the health new
+tell me the health news
+tell me the entertainment new
+tell me the entertainment news
+what is new
+what is news
+what is technology new
+what is technology news
+what is sports new
+what is sports news
+what is world new
+what is world news
+what is business new
+what is business news
+what is science new
+what is science news
+what is health new
+what is health news
+what is entertainment new
+what is entertainment news
+what is the new
+what is the news
+what is the technology new
+what is the technology news
+what is the sports new
+what is the sports news
+what is the world new
+what is the world news
+what is the business new
+what is the business news
+what is the science new
+what is the science news
+what is the health new
+what is the health news
+what is the entertainment new
+what is the entertainment news
+what's new
+what's news
+what's technology new
+what's technology news
+what's sports new
+what's sports news
+what's world new
+what's world news
+what's business new
+what's business news
+what's science new
+what's science news
+what's health new
+what's health news
+what's entertainment new
+what's entertainment news
+what's the new
+what's the news
+what's the technology new
+what's the technology news
+what's the sports new
+what's the sports news
+what's the world new
+what's the world news
+what's the business new
+what's the business news
+what's the science new
+what's the science news
+what's the health new
+what's the health news
+what's the entertainment new
+what's the entertainment news
+read update
+read updates
+read technology update
+read technology updates
+read sports update
+read sports updates
+read world update
+read world updates
+read business update
+read business updates
+read science update
+read science updates
+read health update
+read health updates
+read entertainment update
+read entertainment updates
+read the update
+read the updates
+read the technology update
+read the technology updates
+read the sports update
+read the sports updates
+read the world update
+read the world updates
+read the business update
+read the business updates
+read the science update
+read the science updates
+read the health update
+read the health updates
+read the entertainment update
+read the entertainment updates
+read me update
+read me updates
+read me technology update
+read me technology updates
+read me sports update
+read me sports updates
+read me world update
+read me world updates
+read me business update
+read me business updates
+read me science update
+read me science updates
+read me health update
+read me health updates
+read me entertainment update
+read me entertainment updates
+read me the update
+read me the updates
+read me the technology update
+read me the technology updates
+read me the sports update
+read me the sports updates
+read me the world update
+read me the world updates
+read me the business update
+read me the business updates
+read me the science update
+read me the science updates
+read me the health update
+read me the health updates
+read me the entertainment update
+read me the entertainment updates
+tell update
+tell updates
+tell technology update
+tell technology updates
+tell sports update
+tell sports updates
+tell world update
+tell world updates
+tell business update
+tell business updates
+tell science update
+tell science updates
+tell health update
+tell health updates
+tell entertainment update
+tell entertainment updates
+tell the update
+tell the updates
+tell the technology update
+tell the technology updates
+tell the sports update
+tell the sports updates
+tell the world update
+tell the world updates
+tell the business update
+tell the business updates
+tell the science update
+tell the science updates
+tell the health update
+tell the health updates
+tell the entertainment update
+tell the entertainment updates
+tell me update
+tell me updates
+tell me technology update
+tell me technology updates
+tell me sports update
+tell me sports updates
+tell me world update
+tell me world updates
+tell me business update
+tell me business updates
+tell me science update
+tell me science updates
+tell me health update
+tell me health updates
+tell me entertainment update
+tell me entertainment updates
+tell me the update
+tell me the updates
+tell me the technology update
+tell me the technology updates
+tell me the sports update
+tell me the sports updates
+tell me the world update
+tell me the world updates
+tell me the business update
+tell me the business updates
+tell me the science update
+tell me the science updates
+tell me the health update
+tell me the health updates
+tell me the entertainment update
+tell me the entertainment updates
+what is update
+what is updates
+what is technology update
+what is technology updates
+what is sports update
+what is sports updates
+what is world update
+what is world updates
+what is business update
+what is business updates
+what is science update
+what is science updates
+what is health update
+what is health updates
+what is entertainment update
+what is entertainment updates
+what is the update
+what is the updates
+what is the technology update
+what is the technology updates
+what is the sports update
+what is the sports updates
+what is the world update
+what is the world updates
+what is the business update
+what is the business updates
+what is the science update
+what is the science updates
+what is the health update
+what is the health updates
+what is the entertainment update
+what is the entertainment updates
+what's update
+what's updates
+what's technology update
+what's technology updates
+what's sports update
+what's sports updates
+what's world update
+what's world updates
+what's business update
+what's business updates
+what's science update
+what's science updates
+what's health update
+what's health updates
+what's entertainment update
+what's entertainment updates
+what's the update
+what's the updates
+what's the technology update
+what's the technology updates
+what's the sports update
+what's the sports updates
+what's the world update
+what's the world updates
+what's the business update
+what's the business updates
+what's the science update
+what's the science updates
+what's the health update
+what's the health updates
+what's the entertainment update
+what's the entertainment updates
+read Flash Briefing
+read my Flash Briefing
+read me Flash Briefing
+read me my Flash Briefing
+tell Flash Briefing
+tell my Flash Briefing
+tell me Flash Briefing
+tell me my Flash Briefing
+what is Flash Briefing
+what is my Flash Briefing
+what's Flash Briefing
+what's my Flash Briefing
+Flash Briefing

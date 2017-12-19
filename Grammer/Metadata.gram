@@ -1,0 +1,15 @@
+#JSGF V1.0;
+grammer Metadata;
+
+<pre> = tell me | tell;
+<question> = what | what can | what do;
+<question2> = who;
+<person> = you;
+<person2> = am I;
+<verbs> = do|say|execute|perform|accomplish|achieve;
+<verbs2> = talking | speaking| chatting;
+<polite> = please | can you please;
+
+public <command>=[<polite>][<pre>](<question>)[<person>](<verbs>);
+public <command>=[<polite>][<pre>](<question2>)[are](<person>);
+public <command>=[<polite>][<pre>](<question2>)(<person2>)(<verbs2)[to];

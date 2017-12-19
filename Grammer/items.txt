@@ -1,0 +1,122 @@
+|Aerosol spray
+|Air brake
+|Air conditioning
+|Air pump
+|Airplane
+|Airship
+|Airship, rigid dirigible
+|Aqua-lung
+|Arc welder
+|Aspirin
+|Autogyro
+|Automobile
+|Balloon
+|Barometer
+|Bicycle
+|Burner
+|Calculating machine
+|Camera
+|Carburetor
+|Carpet sweeper
+|Cash register
+|Cathode ray tube
+|Cellophane
+|Celluloid
+|Cement
+|Cereal
+|Clock
+|Computer
+|Drinking Straw
+|Dynamite
+|Earmuffs
+|Electric battery
+|Elevator
+|Furnace
+|Gas lighting
+|Gasoline
+|Gyroscope
+|Harvester-thresher
+|Hearing aid, battery powered
+|Helicopter
+|Hydrometer
+|Ice-making machine
+|Incubator (eggs)
+|Iron lung
+|Ironing board
+|Jeans
+|Jigsaw puzzle
+|Kaleidoscope
+|Kinetoscope
+|Lamp
+|Laser
+|Launderette
+|Lens, fused bifocal
+|Lightning rod
+|Linoleum
+|Lock
+|Loudspeaker
+|Magnet
+|Maser
+|Mason jar
+|Match, friction
+|Metronome
+|Microphone
+|Motor
+|Motorcycle
+|Nylon
+|Nylon synthetic
+|Oleomargarine
+|Ophthalmoscope
+|Outboard motor
+|Packaged frozen foods
+|Parachute
+|Pen
+|Pendulum
+|Phonograph
+|Photo film
+|Photoelectric cell
+|Photography
+|Piano
+|Pin
+|Plastic
+|Potato chips
+|Radar
+|Radio
+|Rayon
+|Refrigerator
+|Rocket engine
+|Roller skates
+|Rubber
+|Saw
+|Sewing machine
+|Sleeping car
+|Slide rule
+|Spectroscope
+|Steam car
+|Steam turbine
+|Steamboat
+|Steel
+|Stethoscope
+|Storage battery
+|Stove
+|Submarine
+|Tape recorder
+|Telegraph
+|Telephone
+|Telescope
+|Television
+|Thermometer
+|Tire
+|Toaster
+|Toothpaste tube
+|Transformer A.C.
+|Transistor
+|Tungsten
+|Turbine
+|Typewriter
+|Vacuum cleaner
+|Velcro fastener
+|Videotape recorder
+|Washer
+|X-ray tube
+|Zipper

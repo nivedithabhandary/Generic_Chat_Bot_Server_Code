@@ -1,0 +1,17 @@
+#JSGF V1.0;
+grammer time;
+
+<question> = tell | tell me;
+<others> = what is | what's;
+<subject> = time;
+<pre> = in;
+<place> = India | Mexico | China | New York | Japan | Paris | Cannada | Mumbai;
+<polite> = please | can you please;
+<time> = now ;
+
+public <command>=[<polite>](<question>)[the](<subject>)[<time>];
+public <command>=[<polite>](<question>)[the](<subject>)(<pre>)(<place>);
+public <command>=(<others>)[the](<subject>)[<time>];
+public <command>=(<others>)[the](<subject>)(<pre>)(<place>);
+public <command>=(<subject>)[<time>];
+public <command>=(<subject>)(<pre>)(<place>);

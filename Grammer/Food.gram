@@ -1,0 +1,15 @@
+#JSGF V1.0;
+grammer food;
+
+<pre> = tell me | tell;
+<question> = how to | tell how to | tell me how to;
+<verbs> = cook | prepare | make ;
+<subject> = food;
+<cuisine> = Chinese | British | Caribbean | European | French | Greek | Indian | Thai | Mexican;
+<dishes> = Pasta | Pizza | Falafel | Idli | Scrambled Eggs | Chocolate Cake |Bhindi masala| Biryani |Dosa|Appam|Dal| Aloo methi | Grilled Cheese Sandwich | Butter Paneer;
+<extra> = recipe for | recipe of;
+<polite> = please | can you please;
+
+public <command>=(<question>)(<verbs>)(<dishes>);
+public <command>=(<question>)(<verbs>)(<cuisine>)[<subject>];
+public <command>=[<polite>][<pre>](<extra>)(<dishes>);

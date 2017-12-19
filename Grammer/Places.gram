@@ -1,0 +1,16 @@
+#JSGF V1.0;
+grammer places;
+
+<question> = tell | tell me ;
+<subject> = place | places;
+<verbs> = visit | see;
+<location> = near by | near me;
+<interest> = National Parks | Museums |Tourist places | Tourist attractions;
+<places> = Santa Clara | San Jose | London | Paris | Seattle;
+<polite> = please | can you please;
+
+public <command>=[<polite>](<question>)<subject>(to)(<verbs>)[<location>];
+public <command>=(<interest>)(to)(<verbs>)(<location>|<places>);
+public <command>=[<polite>][<question>](<interest>)(<location>|<places>);
+public <command>=[<polite>][<question>](points of interest)(in)(<places>);
+public <command>=[<polite>][<question>](points of interest)(<location>);

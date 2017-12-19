@@ -1,0 +1,11 @@
+#JSGF V1.0;
+grammer places;
+
+# Who is president of <country>
+<question1> = who is;
+<subject1> = president of ;
+<countries> = Afghanistan|Jamaica|Italy|Hugary|Australia|Austria|Azerbaijan|USA|India|Cambodia|Cameroon|Canada|Georgia|Japan|Germany|Ghana|Greece;
+
+#
+
+public <command>=(<question1>)<subject1>(<countries>);
